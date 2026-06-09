@@ -14,7 +14,7 @@
 
 <h2>Technologies utilisées</h2>
 
-*   HTML5
+*   HTML5 :La structure sémantique.
 *   CSS3 : Variables CSS, Grid, Flexbox et Media Queries (Design inspiré de l'interface native de GitHub).
 *   JavaScript (Vanilla) : Fonctions asynchrones (`async/await`), manipulation du DOM et gestion d'événements, sans aucune bibliothèque tierce.
 
