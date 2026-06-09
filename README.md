@@ -20,7 +20,7 @@
 
 <h2>Démonstration en direct</h2>
 
-🌐 **[Lien vers la version en production (GitHub Pages) à insérer ici]**
+[version en production](https://adjagbafortune.github.io/api-portfolio/)
 
 <h2>Installation et utilisation en local</h2>
 
