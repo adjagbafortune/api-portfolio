@@ -47,4 +47,4 @@ const GITHUB_USERNAME = 'adjagbafortune';
 
 <h2>🛡️ Licence</h2>
 
-Ce projet est sous [License MIT](LICENSE). Vous êtes libre de l'utiliser, de le modifier et de le distribuer. 
+Ce projet est sous [License MIT](LICENSE). Vous êtes libre de l'utiliser, de le modifier et de le distribuer. <!-- Test Co-author v2 -->
